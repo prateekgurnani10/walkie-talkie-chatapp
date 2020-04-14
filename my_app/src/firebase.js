@@ -3,8 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 import 'firebase/storage';
 
-
-const firebaseConfig ={
+const firebaseConfig = {
   apiKey: "AIzaSyB2Ur_kcNE5whS47LHyL1NRphufJ47L2U8",
   authDomain: "chatapp-23d6c.firebaseapp.com",
   databaseURL: "https://chatapp-23d6c.firebaseio.com",
@@ -14,6 +13,7 @@ const firebaseConfig ={
   appId: "1:676721860529:web:4bc0cc16b50985bc1b2790",
   measurementId: "G-W2NFEKCGB3"
 };
+
 
 firebase.initializeApp(firebaseConfig);
 
