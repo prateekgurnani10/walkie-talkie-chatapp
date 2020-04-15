@@ -1,26 +1,21 @@
-# Walkie-Talkie-Chatapp
+# Walkie-Talkie-Chatapp 🚀
 
-A Full-stack realtime 💬 walkie-talkie style chat app with the ability to record and upload audio from the device. Built with Vue, Javascript, Firebase,HTML and CSS.
+A Full-stack realtime  walkie-talkie style chat app with the ability to record and upload audio from the device. Built with ❤️ from Vue, Javascript, Firebase,HTML and Bulma  🚀💯🔥👌
 
 ## Project setup
 ```
+git clone <this-repo>
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Please add your Firebase credentials to src/firebase.js
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
+### Connect
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FPrateek_theDev)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
