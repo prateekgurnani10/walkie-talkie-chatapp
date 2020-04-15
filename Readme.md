@@ -13,9 +13,8 @@ npm install
 npm run serve
 ```
 
-### Connect
-```
+### Connect 👋🏻👋🏻👋🏻
 
-![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FPrateek_theDev)
+[Follow me on Twitter](https://twitter.com/Prateek_theDev)
 
-```
+[Connect with me on LinkedIn](https://www.linkedin.com/in/prateekgurnani)
