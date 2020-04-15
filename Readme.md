@@ -14,9 +14,6 @@ npm run serve
 ```
 
 ### Connect 👋🏻👋🏻👋🏻
-```
-[Follow me on Twitter](https://twitter.com/Prateek_theDev)
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/prateekgurnani/)
 
 ```
