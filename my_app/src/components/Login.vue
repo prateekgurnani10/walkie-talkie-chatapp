@@ -1,5 +1,5 @@
 <template>
-    <aside>
+    <aside class="section">
         <h3>
             Sign in Anonymously
         </h3>
