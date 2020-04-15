@@ -1,18 +1,28 @@
 <template>
-  <aside class="section">
-    <h3>Sign in Anonymously</h3>
-    <button class="button" @click="auth.signInAnonymously()">Sign In</button>
-    </aside>
+  <div id="app">
+    <header>
+      <h1> Vue Voxer </h1>
+      <p>RealTime voice chat </p>
+    </header>
+      <router-view></router-view>
+
+  </div>
 </template>
 
 <script>
-import { auth } from '../firebase';
+import auth from './firebase'
+console.log(auth)
 
 export default {
-  data() {
-    return {
-      auth,
-    }
-  },
+  name: 'App',
+  components: {
+
+  }
 }
 </script>
+
+<style>
+
+
+
+</style>
