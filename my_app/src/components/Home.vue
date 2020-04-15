@@ -11,7 +11,8 @@
 import Login from "./Login"
 export default {
     components:{
-        Login
+        Login,
+        User
     }
 
 }
