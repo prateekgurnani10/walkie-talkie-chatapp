@@ -1,9 +1,10 @@
 <template>
     <div>
-        <slot name="user" :user="user"  ></slot>
+        <slot name="user" :user= "user"  ></slot>
     </div>
 </template>
 <script>
+import {auth} from '../firebase'
 import {ref} from '@vue/composition-api'
 export default {
     setup(){
