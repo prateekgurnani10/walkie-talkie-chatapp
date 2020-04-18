@@ -13,7 +13,7 @@ export default {
             auth
         }
     },
-    props:['user']
+    props: ['user']
 
 }
 </script>
