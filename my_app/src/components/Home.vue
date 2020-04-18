@@ -4,7 +4,7 @@
         <User v-slot:user="{user}">
             <div v-if="user">
                 <h3>User Profile </h3>
-                <UserProfile :user= "user" />
+              <UserProfile :user= "user" />
             </div>
             <Login v-else />
         </User>
