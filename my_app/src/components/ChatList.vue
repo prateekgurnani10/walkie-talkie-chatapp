@@ -1,6 +1,6 @@
 <template>
     <div>
-        <button @click= "createChatRoom"></button>
+        <button @click= "createChatRoom"> create chatroom</button>
     </div>
 </template>
 <script>
