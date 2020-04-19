@@ -5,6 +5,7 @@
             <div v-if="user">
                 <h3>User Profile </h3>
               <UserProfile :user= "user" />
+              <ChatList :uid="user.uid" />
             </div>
             <Login v-else />
         </User>
