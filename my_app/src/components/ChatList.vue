@@ -1,5 +1,9 @@
 <template>
   <div>
+      <ul>
+          <li v-for= "chat of chats" :key= "chat.id">
+          </li>
+      </ul>
     <button @click="createChatRoom()" class="button">Create New Chat Room</button>
   </div>
 </template>
