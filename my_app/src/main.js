@@ -9,9 +9,10 @@ Vue.use(firestorePlugin)
 
 Vue.config.productionTip = false
 import Home from './components/Home'
-
+import ChatRoom from './components/ChatRoom'
 const router = new VueRouter({
-  routes: [{path:'/', component:Home},]
+  routes: [{path:'/', component:Home},
+{path: '/chats/:id',component:ChatRoom, name:'chat'}]
 })
 new Vue({
   router,
