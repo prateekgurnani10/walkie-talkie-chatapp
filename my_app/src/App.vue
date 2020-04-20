@@ -23,6 +23,11 @@ export default {
 
 <style>
 
-
+header {
+  text-align: center;
+}
+button, input {
+  margin-bottom: 10px;
+}
 
 </style>
