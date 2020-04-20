@@ -1,6 +1,6 @@
 <template>
     <div class = "section">
-        <h2>Home.vue</h2>
+        <h2></h2>
         <User v-slot:user="{user}">
             <div v-if="user">
                 <h3>User Profile </h3>
