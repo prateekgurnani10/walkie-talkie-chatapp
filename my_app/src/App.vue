@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <header>
-      <h1> Vue Voxer </h1>
-      <p>RealTime voice chat </p>
+      <h1> Walkie-Talkie Chat App </h1>
+      <p>A Full-stack realtime walkie-talkie style chat app with the ability to record and upload audio from the device. </p>
     </header>
       <router-view></router-view>
 
