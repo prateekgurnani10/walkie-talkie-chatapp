@@ -32,7 +32,7 @@
 
 import User from './User.vue';
 import Login from './Login.vue';
-import { db, storage } from '../firebase';
+import { db} from '../firebase';
 
 export default {
   components: {
@@ -73,6 +73,11 @@ export default {
 
         });
 
-    },
-};
+        this.loading =false;
+        this.newMessageText ='';
+
+       },
+    }
+}
+
 </script>
